@@ -1,0 +1,10 @@
+[package]
+name = "embedded-rs-template"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cargo-embed = "1.0.1"
+cortex-m-rt = "0.7.3"
+panic-halt = "0.2.0"
+
